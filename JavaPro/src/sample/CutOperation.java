@@ -6,6 +6,7 @@ public class CutOperation {
 		
 		System.out.println("hello World");
 
+		//나름 코딩
 	}
 
 }
